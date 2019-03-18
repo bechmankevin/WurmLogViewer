@@ -1,0 +1,517 @@
+Logging started 2011-11-18
+[22:11:41] Carpentry increased  to 2
+[22:11:41] Carpentry increased  to 3
+[22:11:41] Carpentry increased  to 4
+Logging started 2011-11-19
+[13:40:26] Normal fighting increased  to 2
+[13:44:04] Shortsword increased  to 2
+[13:44:15] Normal fighting increased  to 3
+[13:45:00] Aggressive fighting increased  to 2
+[13:49:25] Swords increased  to 2
+[13:49:51] Normal fighting increased  to 4
+[13:52:40] Carving knife increased  to 2
+[14:02:35] Shortsword increased  to 3
+[14:03:48] Defensive fighting increased  to 2
+[14:04:05] Aggressive fighting increased  to 3
+[14:04:59] Knives increased  to 2
+Logging started 2011-11-19
+[17:25:31] Meditating increased  to 2
+[17:56:30] Carving knife increased  to 3
+Logging started 2011-11-19
+[19:58:03] Defensive fighting increased  to 3
+[20:05:41] Normal fighting increased  to 5
+[20:10:11] Aggressive fighting increased  to 4
+[21:24:21] Hatchet increased  to 2
+[21:37:34] Woodcutting increased  to 2
+[21:39:49] Axes increased  to 2
+[21:39:49] Woodcutting increased  to 3
+[21:40:47] Hatchet increased  to 3
+[21:41:22] Woodcutting increased  to 4
+[21:48:11] Carpentry increased  to 2
+[22:28:32] Aggressive fighting increased  to 2
+[22:29:10] Aggressive fighting increased  to 3
+[22:45:14] Tracking increased  to 2
+[22:59:02] Carving knife increased  to 2
+[23:01:42] Tracking increased  to 3
+[23:30:35] Normal fighting increased  to 2
+[23:37:51] Woodcutting decreased  to 3
+[23:46:59] Shortsword increased  to 2
+[23:47:04] Normal fighting increased  to 3
+[23:47:44] Aggressive fighting increased  to 4
+Logging started 2011-11-20
+[12:26:05] Carving knife increased  to 3
+[12:38:59] Normal fighting increased  to 4
+Logging started 2011-11-20
+[13:12:53] Normal fighting increased  to 5
+[13:13:32] Shortsword increased  to 3
+[13:14:00] Butchering increased  to 2
+[13:19:21] Woodcutting increased  to 4
+[13:20:00] Woodcutting increased  to 5
+[13:20:24] Body increased  to 2
+[13:21:22] Woodcutting increased  to 6
+[13:29:03] Swords increased  to 2
+[13:29:13] Normal fighting increased  to 6
+[13:32:29] Prospecting increased  to 2
+[13:35:07] Prospecting increased  to 3
+[13:38:28] Prospecting increased  to 4
+[13:41:43] Climbing increased  to 2
+[14:07:14] Foraging increased  to 2
+[14:08:37] Botanizing increased  to 2
+[14:11:35] Natural substances increased  to 2
+[14:14:51] Natural substances increased  to 3
+[14:15:30] First aid increased  to 2
+[14:17:33] Defensive fighting increased  to 2
+[14:18:43] Normal fighting increased  to 7
+[14:26:02] Natural substances increased  to 4
+[14:29:22] Alchemy increased  to 2
+[14:30:08] Foraging increased  to 3
+[14:30:27] Nature increased  to 2
+[14:34:31] Mind increased  to 2
+[14:46:09] Botanizing increased  to 3
+[14:51:59] Foraging increased  to 4
+[15:11:15] Nature increased  to 3
+[15:12:58] Foraging increased  to 5
+[15:17:14] Defensive fighting increased  to 3
+[15:26:07] Natural substances increased  to 5
+[15:29:01] First aid increased  to 3
+[15:31:52] Shortsword increased  to 4
+[15:31:55] Normal fighting increased  to 8
+[16:05:26] Knives increased  to 2
+[16:05:26] Carving knife increased  to 4
+[16:13:08] Pickaxe increased  to 2
+[16:15:41] Pickaxe increased  to 3
+[16:16:02] Miscellaneous items increased  to 2
+[16:16:22] Mining increased  to 2
+[16:21:32] Soul increased  to 2
+[16:22:29] Mining increased  to 3
+[16:22:47] Pickaxe increased  to 4
+[16:26:00] Mining increased  to 4
+[16:27:55] Miscellaneous items increased  to 3
+[16:28:36] Pickaxe increased  to 5
+[16:30:28] Mining increased  to 5
+[16:35:07] Pickaxe increased  to 6
+[16:38:51] Mining increased  to 6
+[16:39:49] Miscellaneous items increased  to 4
+[16:41:08] Mind increased  to 3
+[16:42:24] Pickaxe increased  to 7
+[16:42:48] Body increased  to 3
+[16:45:58] Mining increased  to 7
+[16:50:02] Pickaxe increased  to 8
+[16:53:54] Miscellaneous items increased  to 5
+[16:55:03] Normal fighting increased  to 9
+[17:22:30] Axes increased  to 3
+[17:26:19] Woodcutting increased  to 7
+[17:27:10] Hatchet increased  to 4
+[17:28:50] Axes increased  to 4
+[17:31:00] Hatchet increased  to 5
+[17:41:07] Hot food cooking increased  to 2
+[17:41:35] Hot food cooking increased  to 3
+[17:46:47] Masonry increased  to 2
+[17:47:40] Stone cutting increased  to 2
+[17:51:28] Stone cutting increased  to 3
+Logging started 2011-11-20
+[18:31:34] Swords increased  to 3
+[18:31:35] Normal fighting increased  to 10
+[18:33:33] Body increased  to 4
+[18:43:30] Masonry increased  to 3
+[18:48:37] Digging increased  to 2
+[18:49:22] Digging increased  to 3
+[18:55:46] Shovel increased  to 2
+[18:57:08] Soul increased  to 3
+[18:57:08] Digging increased  to 4
+[19:02:56] Cooking increased  to 2
+Logging started 2011-11-20
+[19:32:56] Shovel increased  to 3
+Logging started 2011-11-20
+[20:07:45] Body strength increased  to 20
+[20:20:35] Mining increased  to 8
+[20:21:25] Pickaxe increased  to 9
+[20:23:54] Prospecting increased  to 5
+[20:47:24] Normal fighting increased  to 11
+[22:04:07] Blacksmithing increased  to 2
+[22:04:33] Repairing increased  to 2
+[22:05:14] Blacksmithing increased  to 3
+[22:06:27] Smithing increased  to 2
+[22:06:27] Blacksmithing increased  to 4
+[22:18:34] Carpentry increased  to 3
+[22:23:58] Mind increased  to 4
+[22:24:17] Fine carpentry increased  to 2
+[22:27:23] Botanizing increased  to 4
+[22:29:18] Mind logic increased  to 20
+[22:29:54] Blacksmithing increased  to 5
+[22:41:21] Carpentry increased  to 4
+[22:47:28] Repairing increased  to 3
+Logging started 2011-11-21
+[00:32:19] Miscellaneous items increased  to 6
+[00:33:26] Mining increased  to 9
+[00:36:25] Pickaxe increased  to 10
+[00:43:00] Mining increased  to 10
+[00:45:21] Miscellaneous items increased  to 7
+[00:46:46] Pickaxe increased  to 11
+[00:52:53] Mining increased  to 11
+[00:56:18] Blacksmithing increased  to 6
+[00:56:41] Body increased  to 5
+[00:58:05] Smithing increased  to 3
+[01:01:07] Pickaxe increased  to 12
+[01:05:45] Soul strength increased  to 20
+[01:10:07] Miscellaneous items increased  to 8
+[01:11:01] Mining increased  to 12
+[01:12:56] Pickaxe increased  to 13
+[01:21:04] Mining increased  to 13
+[01:22:35] Soul increased  to 4
+[01:26:03] Pickaxe increased  to 14
+[01:33:05] Miscellaneous items increased  to 9
+[01:33:05] Mining increased  to 14
+[01:44:02] Pickaxe increased  to 15
+[01:46:03] Mind increased  to 5
+[01:48:31] Mining increased  to 15
+[02:03:16] Pickaxe increased  to 16
+[02:09:19] Miscellaneous items increased  to 10
+[02:11:56] Mining increased  to 16
+Logging started 2011-11-21
+[12:16:36] Shortsword increased  to 5
+[12:16:37] Normal fighting increased  to 12
+[12:21:14] Carving knife increased  to 5
+[12:28:00] Carving knife increased  to 6
+[12:31:29] Knives increased  to 3
+[12:31:29] Butchering increased  to 3
+[13:18:03] Normal fighting increased  to 13
+[13:25:08] Prospecting increased  to 5
+[13:25:45] Prospecting increased  to 6
+Logging started 2011-11-21
+[14:47:33] Body strength increased  to 20
+[14:53:54] Shortsword increased  to 6
+[14:55:07] Carving knife increased  to 7
+[15:17:36] First aid increased  to 4
+[15:22:04] Normal fighting increased  to 14
+[15:22:43] Swords increased  to 4
+[15:28:59] Natural substances increased  to 6
+Logging started 2011-11-21
+[16:25:29] Animal taming increased  to 2
+Logging started 2011-11-21
+[16:53:52] Prospecting increased  to 7
+[16:55:53] Prospecting increased  to 8
+Logging started 2011-11-21
+[19:08:14] Prospecting increased  to 9
+[19:12:30] Prospecting increased  to 10
+[19:26:23] Hatchet increased  to 5
+[19:27:37] Woodcutting increased  to 8
+[19:29:13] Body increased  to 6
+[19:30:40] Axes increased  to 5
+[19:30:40] Woodcutting increased  to 9
+[19:41:24] Pickaxe increased  to 17
+[20:09:36] Mining increased  to 17
+[20:11:37] Soul increased  to 5
+[20:29:05] Hot food cooking increased  to 4
+[20:29:14] Mind increased  to 6
+[20:32:15] Pickaxe increased  to 18
+[20:34:47] Miscellaneous items increased  to 11
+[20:54:12] Mining increased  to 18
+[21:02:14] Firemaking increased  to 2
+[21:09:25] Blacksmithing increased  to 7
+[21:19:07] Normal fighting increased  to 15
+[21:22:24] Body strength decreased  to 19
+[21:22:24] Animal taming decreased  to 1
+[21:44:57] Pickaxe increased  to 19
+[21:45:22] Body strength increased  to 20
+[22:04:06] First aid increased  to 5
+Logging started 2011-11-22
+[00:45:21] Repairing increased  to 4
+[01:01:17] Miscellaneous items increased  to 12
+[01:04:14] Pickaxe increased  to 20
+[01:04:48] Mining increased  to 19
+[01:25:09] Mining increased  to 20
+[01:36:21] Miscellaneous items increased  to 13
+[01:38:43] Pickaxe increased  to 21
+[01:43:46] Body increased  to 7
+[01:59:24] Soul increased  to 6
+[02:03:07] Mining increased  to 21
+[02:05:49] Pickaxe increased  to 22
+[02:07:23] Miscellaneous items increased  to 14
+[02:07:57] Mind increased  to 7
+[02:30:33] Mining increased  to 22
+Logging started 2011-11-22
+[12:45:14] Pickaxe increased  to 23
+[12:53:01] Miscellaneous items increased  to 15
+[13:18:25] Pickaxe increased  to 24
+[13:19:50] Mining increased  to 23
+[13:28:06] Miscellaneous items increased  to 16
+[13:42:37] Normal fighting increased  to 16
+[13:47:12] Body increased  to 8
+[13:55:01] Mining increased  to 24
+[13:55:49] Pickaxe increased  to 25
+[13:56:23] Mind increased  to 8
+[14:12:24] Soul increased  to 7
+[14:13:22] Miscellaneous items increased  to 17
+[14:25:54] Pickaxe increased  to 26
+[14:28:45] Mining increased  to 25
+[14:47:25] Miscellaneous items increased  to 18
+[15:05:34] Pickaxe increased  to 27
+[15:09:52] Mining increased  to 26
+[15:18:11] Prospecting increased  to 11
+[15:56:21] Digging increased  to 5
+[16:35:52] Miscellaneous items increased  to 19
+[16:57:45] Masonry increased  to 4
+[16:58:33] Stone chisel increased  to 2
+[17:01:44] Body increased  to 9
+[17:03:22] Stone cutting increased  to 4
+[17:11:18] Shortsword increased  to 7
+[17:12:26] Mind speed increased  to 20
+[17:12:56] Normal fighting increased  to 17
+[17:15:10] Healing increased  to 2
+[17:29:42] Shovel increased  to 4
+[17:31:53] Digging increased  to 6
+Logging started 2011-11-22
+[17:53:22] Mind increased  to 9
+[17:53:40] Masonry increased  to 5
+[18:05:03] Masonry increased  to 6
+Logging started 2011-11-22
+[19:45:56] Knives increased  to 4
+[19:45:56] Carving knife increased  to 8
+[19:49:21] First aid increased  to 6
+[19:51:08] Shields increased  to 2
+[19:57:36] Normal fighting increased  to 18
+[19:57:47] Swords increased  to 5
+[20:10:03] Firemaking increased  to 3
+[20:24:32] Hot food cooking increased  to 5
+[20:28:06] Shortsword increased  to 8
+[20:28:50] Butchering increased  to 4
+[21:06:27] Repairing increased  to 5
+[21:12:55] Pickaxe increased  to 28
+[21:31:33] Blacksmithing increased  to 8
+[21:40:51] Chain armour smithing increased  to 2
+[21:53:31] Masonry increased  to 7
+[21:55:10] Stone chisel increased  to 3
+[21:58:38] Normal fighting increased  to 19
+[21:59:52] Alchemy increased  to 3
+[21:59:52] Natural substances increased  to 7
+[22:06:57] Blacksmithing increased  to 9
+[22:08:37] Smithing increased  to 4
+[22:27:19] First aid increased  to 7
+[22:37:46] Weaponless fighting increased  to 2
+[22:38:30] Natural substances increased  to 8
+[22:47:01] Foraging increased  to 6
+[22:50:23] Nature increased  to 4
+[22:51:28] Foraging increased  to 7
+[22:53:39] Botanizing increased  to 5
+[23:11:51] Blacksmithing increased  to 10
+[23:18:11] Body control increased  to 20
+[23:29:39] Blacksmithing increased  to 11
+[23:33:15] Chain armour smithing increased  to 3
+[23:39:50] Smithing increased  to 5
+[23:42:11] Chain armour smithing increased  to 4
+[00:06:55] Armour smithing increased  to 2
+[00:07:34] Chain armour smithing increased  to 5
+[00:07:59] Hammer increased  to 2
+[00:08:56] Chain armour smithing increased  to 6
+[00:10:44] Chain armour smithing increased  to 7
+[00:12:24] Armour smithing increased  to 3
+[00:12:42] Chain armour smithing increased  to 8
+[00:13:20] Hammer increased  to 3
+[00:21:33] Cooking increased  to 3
+[00:36:49] Chain armour smithing increased  to 9
+[00:38:55] Smithing increased  to 6
+[00:43:42] Chain armour smithing increased  to 10
+[00:45:34] Armour smithing increased  to 4
+[00:49:30] Chain armour smithing increased  to 11
+[00:53:00] Body increased  to 10
+[00:56:30] Chain armour smithing increased  to 12
+[00:58:07] Repairing increased  to 6
+[01:01:03] Smithing increased  to 7
+[01:02:50] Chain armour smithing increased  to 13
+[01:14:27] Armour smithing increased  to 5
+[01:16:42] Chain armour smithing increased  to 14
+Logging started 2011-11-23
+[11:53:49] Miscellaneous items increased  to 20
+[11:55:24] Mining increased  to 27
+Logging started 2011-11-23
+[13:59:25] Defensive fighting increased  to 4
+[14:03:30] Natural substances increased  to 9
+[14:04:12] Healing increased  to 3
+[14:04:12] First aid increased  to 8
+[14:20:26] Hammer increased  to 4
+[14:21:31] Blades smithing increased  to 2
+[14:23:14] Blades smithing increased  to 3
+[14:33:09] Chain armour smithing increased  to 15
+[14:46:06] Smithing increased  to 8
+[14:48:12] Chain armour smithing increased  to 16
+[14:51:26] Armour smithing increased  to 6
+[14:54:29] Chain armour smithing increased  to 17
+[15:00:01] Weapon smithing increased  to 2
+[15:00:01] Blades smithing increased  to 4
+[15:11:59] Weapon smithing increased  to 3
+[15:12:21] Hammer increased  to 5
+[15:27:45] Smithing increased  to 9
+[15:28:44] Chain armour smithing increased  to 18
+[15:38:54] Chain armour smithing increased  to 19
+[15:59:22] Chain armour smithing increased  to 20
+[16:05:15] Alchemy increased  to 4
+[16:11:46] Armour smithing increased  to 7
+Logging started 2011-11-23
+[17:05:28] Normal fighting increased  to 20
+[17:05:46] Shortsword increased  to 9
+[17:07:39] Butchering knife increased  to 2
+[17:10:26] Knives increased  to 5
+[17:13:12] Butchering knife increased  to 3
+[17:18:48] Hot food cooking increased  to 6
+[17:19:04] Soul increased  to 8
+[17:34:14] Smithing increased  to 10
+[17:36:45] Hammer increased  to 6
+[17:37:21] Repairing increased  to 7
+[17:37:34] Chain armour smithing increased  to 21
+[17:42:53] Body increased  to 11
+[17:48:37] Armour smithing increased  to 8
+[17:53:21] Chain armour smithing increased  to 22
+Logging started 2011-11-23
+[21:12:34] Smithing increased  to 11
+[21:14:13] Chain armour smithing increased  to 23
+[21:20:27] Armour smithing increased  to 9
+[21:22:23] Chain armour smithing increased  to 24
+[22:17:56] Blacksmithing increased  to 12
+[22:32:02] Smithing increased  to 12
+[22:37:06] Blacksmithing increased  to 13
+[22:40:08] Blacksmithing increased  to 14
+[22:43:11] Blacksmithing increased  to 15
+[22:48:03] Blacksmithing increased  to 16
+[23:00:15] Hammer increased  to 7
+Logging started 2011-11-24
+[22:45:13] Digging increased  to 7
+[22:53:32] Digging increased  to 8
+[22:53:48] Shovel increased  to 5
+[22:54:27] Digging increased  to 9
+[22:55:55] Digging increased  to 10
+[22:56:12] Shovel increased  to 6
+[22:57:13] Digging increased  to 11
+[22:59:31] Digging increased  to 12
+[23:16:47] Firemaking increased  to 4
+[23:42:24] Blacksmithing increased  to 17
+[23:46:07] Smithing increased  to 13
+[23:53:38] Butchering knife increased  to 4
+[00:08:25] Shovel increased  to 7
+[00:08:25] Digging increased  to 13
+[00:10:06] Digging increased  to 14
+[00:11:23] Shovel increased  to 8
+[00:12:10] Digging increased  to 15
+[00:12:53] Mind increased  to 10
+[00:12:53] Body increased  to 12
+[00:14:11] Shovel increased  to 9
+[00:14:43] Digging increased  to 16
+[00:17:53] Digging increased  to 17
+[00:20:57] Shovel increased  to 10
+[00:26:02] Shovel decreased  to 9
+Logging started 2011-11-25
+[13:46:59] Masonry increased  to 8
+[13:48:52] Miscellaneous items increased  to 21
+[13:48:52] Hammer increased  to 8
+[14:20:53] Masonry increased  to 9
+[14:22:14] Hammer increased  to 9
+[14:29:07] Hammer increased  to 10
+[14:29:29] Masonry increased  to 10
+Logging started 2011-11-25
+[14:38:31] Hammer increased  to 11
+[14:39:05] Masonry increased  to 11
+[14:42:56] Hammer increased  to 12
+[14:44:57] Masonry increased  to 12
+[14:51:18] Hammer increased  to 13
+[14:52:30] Masonry increased  to 13
+[14:59:24] Hammer increased  to 14
+[15:00:44] Masonry increased  to 14
+[15:29:25] Hammer increased  to 15
+[15:32:58] Masonry increased  to 15
+[15:47:48] Masonry increased  to 16
+[15:48:40] Hammer increased  to 16
+[15:58:10] Hammer increased  to 17
+[15:58:31] Masonry increased  to 17
+[16:31:35] Masonry increased  to 18
+[16:41:40] Hammer increased  to 18
+[16:58:52] Masonry increased  to 19
+[17:03:30] Hammer increased  to 19
+[17:16:40] Mind increased  to 11
+[17:18:36] Masonry increased  to 20
+[17:22:35] Hammer increased  to 20
+[17:33:36] Normal fighting increased  to 21
+[17:39:27] Large maul increased  to 2
+[17:40:16] Butchering knife increased  to 5
+[17:42:30] Mauls increased  to 2
+[18:04:07] Miscellaneous items increased  to 22
+[18:13:53] Hammer increased  to 21
+[18:15:29] Masonry increased  to 21
+[18:24:37] Knives increased  to 6
+[18:24:37] Butchering increased  to 5
+[18:48:16] Hammer increased  to 22
+[18:50:56] Masonry increased  to 22
+Logging started 2011-11-25
+[20:35:45] Stone cutting increased  to 5
+[21:00:07] Natural substances increased  to 10
+[21:09:42] First aid increased  to 9
+[21:24:34] Stone chisel increased  to 4
+[21:25:00] Stone cutting increased  to 6
+[22:21:13] Pickaxe increased  to 29
+[22:32:49] Mining increased  to 28
+[22:34:06] Body increased  to 13
+[22:52:28] Mind increased  to 12
+[22:56:21] Miscellaneous items increased  to 23
+[22:56:38] Mind logic increased  to 21
+Logging started 2011-11-25
+[23:02:34] Body strength increased  to 21
+[23:08:37] Masonry increased  to 23
+[23:46:10] Shovel increased  to 10
+[23:58:43] Large maul increased  to 3
+[00:26:17] Butchering knife increased  to 6
+Logging started 2011-11-26
+[14:20:41] Blacksmithing increased  to 18
+Logging started 2011-11-26
+[23:23:24] Large maul increased  to 4
+[23:24:36] Fighting increased  to 2
+[23:32:44] Mauls increased  to 3
+[23:36:44] Normal fighting increased  to 22
+[23:43:50] Large maul increased  to 5
+[23:46:35] Butchering knife increased  to 7
+[23:56:14] Blacksmithing decreased  to 17
+[00:19:31] Mauls increased  to 4
+[00:19:43] Large maul increased  to 6
+Logging started 2011-11-27
+[16:33:27] Repairing increased  to 8
+[16:49:31] Digging increased  to 18
+[16:57:54] Fighting increased  to 3
+[16:59:14] Large maul increased  to 7
+[17:01:06] Knives increased  to 7
+[17:37:14] Blades smithing increased  to 5
+[17:47:02] Weapon smithing increased  to 4
+[18:13:33] Pickaxe increased  to 30
+[18:14:04] Soul increased  to 9
+Logging started 2011-11-27
+[21:11:31] Mining increased  to 29
+[21:27:24] Pickaxe increased  to 31
+[22:11:24] Pickaxe increased  to 32
+[22:11:24] Mining increased  to 30
+[22:16:04] Miscellaneous items increased  to 24
+Logging started 2011-11-27
+[23:34:52] Stone chisel increased  to 5
+[23:35:33] Masonry increased  to 24
+[00:06:59] Body increased  to 14
+[00:07:58] Mind increased  to 13
+[01:16:28] Soul increased  to 10
+[01:25:21] Mining increased  to 31
+[01:30:21] Pickaxe increased  to 33
+Logging started 2011-11-28
+[23:55:40] Tracking increased  to 4
+[23:58:06] Repairing increased  to 9
+[00:08:14] Blacksmithing increased  to 18
+[00:17:33] Blacksmithing increased  to 19
+[00:41:12] Blacksmithing increased  to 20
+[00:51:19] Hammer increased  to 23
+[01:09:53] Smithing increased  to 14
+[01:10:11] Chain armour smithing increased  to 25
+Logging started 2011-11-29
+[15:56:27] First aid increased  to 10
+[16:00:09] Armour smithing increased  to 10
+[16:15:40] Chain armour smithing increased  to 26
+[16:51:32] Repairing increased  to 10
+[16:52:25] Smithing increased  to 15
+[17:01:30] Chain armour smithing increased  to 27
+Logging started 2011-11-30
+[16:23:24] Blades smithing increased  to 6
+[16:57:39] Normal fighting increased  to 23
+[16:57:39] Mauls increased  to 5
+[16:58:20] Cooking increased  to 4

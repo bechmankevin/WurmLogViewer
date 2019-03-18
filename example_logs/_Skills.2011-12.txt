@@ -1,0 +1,516 @@
+Logging started 2011-12-02
+[23:01:49] Blades smithing increased  to 7
+[23:22:27] Weapon smithing increased  to 5
+[23:23:11] Body increased  to 15
+[23:32:27] Weapon smithing increased  to 6
+[23:33:20] Smithing increased  to 16
+[23:37:38] Repairing increased  to 11
+[23:41:58] Weapon smithing increased  to 7
+[23:43:30] Miscellaneous items increased  to 25
+[23:51:08] Weapon smithing increased  to 8
+[23:54:51] Smithing increased  to 17
+[00:01:13] Repairing increased  to 12
+[00:02:46] Weapon smithing increased  to 9
+[00:26:45] Shields decreased  to 1
+[00:26:45] Mauls decreased  to 4
+Logging started 2011-12-03
+[19:39:09] Natural substances increased  to 11
+[19:49:58] Firemaking increased  to 5
+[20:24:55] Alchemy increased  to 5
+[20:25:32] Healing increased  to 4
+[20:33:56] Weapon smithing increased  to 10
+[20:44:32] Smithing increased  to 18
+[20:46:56] Repairing increased  to 13
+[20:50:33] Weapon smithing increased  to 11
+[20:55:40] Body increased  to 16
+[21:08:33] Weapon smithing increased  to 12
+[21:12:55] Smithing increased  to 19
+[21:40:31] Repairing increased  to 14
+[22:54:16] Prospecting increased  to 12
+Logging started 2011-12-04
+[15:12:51] First aid increased  to 11
+[16:19:50] Digging increased  to 19
+[16:24:59] Shovel increased  to 11
+[16:56:15] Mauls increased  to 5
+Logging started 2011-12-04
+[16:59:01] Soul depth increased  to 20
+[17:00:47] Natural substances increased  to 12
+[17:58:19] Stone cutting increased  to 7
+[18:21:09] Stone cutting increased  to 8
+[18:43:21] Hammer increased  to 24
+Logging started 2011-12-04
+[19:43:33] Masonry increased  to 25
+[20:07:15] Stone cutting increased  to 9
+[20:12:01] Stone chisel increased  to 6
+[20:24:33] Mind increased  to 14
+[20:30:42] Stone cutting increased  to 10
+[20:39:18] Taunting increased  to 2
+[20:56:37] Stone cutting increased  to 11
+[21:39:22] Masonry increased  to 26
+[22:22:22] Stone cutting increased  to 12
+[22:27:09] Stone chisel increased  to 7
+[22:37:28] Stone cutting increased  to 13
+[23:21:38] Masonry increased  to 27
+[23:50:21] Stone cutting increased  to 14
+[00:12:04] Stone cutting increased  to 15
+[00:13:38] Stone chisel increased  to 8
+[01:00:29] Masonry increased  to 28
+Logging started 2011-12-05
+[15:18:49] Climbing increased  to 3
+[15:21:31] Butchering knife increased  to 8
+[15:52:24] Mining increased  to 32
+[15:57:03] Pickaxe increased  to 34
+Logging started 2011-12-05
+[16:49:19] Stone cutting increased  to 16
+Logging started 2011-12-05
+[17:15:37] Stone cutting increased  to 17
+[17:57:25] Stone chisel increased  to 9
+[18:02:14] Masonry increased  to 29
+Logging started 2011-12-05
+[19:39:18] Miscellaneous items increased  to 26
+[19:41:33] Body increased  to 17
+[19:44:04] Stone chisel increased  to 10
+Logging started 2011-12-05
+[20:41:10] Digging increased  to 20
+[20:59:06] Digging increased  to 21
+[20:59:43] Shovel increased  to 12
+[21:24:47] Mind increased  to 15
+[21:46:19] Masonry increased  to 30
+[21:49:45] Stone cutting increased  to 18
+[21:52:27] Paving increased  to 2
+[22:47:02] Armour smithing increased  to 11
+[22:55:30] Chain armour smithing increased  to 28
+[22:58:37] Repairing increased  to 15
+[23:05:00] Chain armour smithing increased  to 29
+[23:07:43] Smithing increased  to 20
+[23:17:31] Chain armour smithing increased  to 30
+[23:18:18] Armour smithing increased  to 12
+[23:27:12] Hammer increased  to 25
+[23:29:20] Chain armour smithing increased  to 31
+[23:36:53] Armour smithing increased  to 13
+[23:46:50] Chain armour smithing increased  to 32
+[23:50:38] Smithing increased  to 21
+[00:03:03] Armour smithing increased  to 14
+[00:03:45] Chain armour smithing increased  to 33
+[00:15:11] Body increased  to 18
+[00:24:20] Armour smithing increased  to 15
+[00:25:11] Chain armour smithing increased  to 34
+[00:27:54] Body strength increased  to 22
+Logging started 2011-12-06
+[16:46:28] Firemaking increased  to 6
+[17:03:00] Blacksmithing increased  to 21
+Logging started 2011-12-06
+[17:53:21] Smithing increased  to 22
+Logging started 2011-12-06
+[21:54:59] Armour smithing increased  to 16
+[22:08:03] Chain armour smithing increased  to 35
+[22:49:05] Chain armour smithing increased  to 36
+[22:53:47] Smithing increased  to 23
+[22:55:00] Hammer increased  to 26
+[23:13:18] Armour smithing increased  to 17
+Logging started 2011-12-07
+[16:01:57] Weapon heads smithing increased  to 2
+[16:03:07] Weapon heads smithing increased  to 3
+[16:06:56] Weapon heads smithing increased  to 4
+[16:10:30] Weapon heads smithing increased  to 5
+[16:22:16] Weapon smithing increased  to 13
+[16:36:55] Weapon smithing increased  to 14
+[16:41:54] Repairing increased  to 16
+[16:45:46] Body control increased  to 21
+[16:59:27] Medium maul increased  to 2
+[17:03:00] Normal fighting increased  to 24
+[17:08:35] Fighting increased  to 4
+[17:15:22] Medium maul increased  to 3
+[17:16:36] Body increased  to 19
+[17:17:13] Butchering increased  to 6
+[17:47:41] First aid increased  to 12
+Logging started 2011-12-07
+[20:45:27] Stone cutting increased  to 19
+[20:49:51] Pickaxe increased  to 35
+[21:33:18] Miscellaneous items increased  to 27
+[22:04:16] Smithing increased  to 24
+[22:16:35] Weapon smithing increased  to 15
+[22:30:48] Medium maul increased  to 4
+[22:30:53] Mauls increased  to 6
+[22:35:27] Butchering knife increased  to 9
+[22:36:50] Medium maul increased  to 5
+[22:37:25] Fighting increased  to 5
+[22:38:03] Knives increased  to 8
+[22:41:38] Medium maul increased  to 6
+[22:46:45] Mauls increased  to 7
+[22:48:31] Normal fighting increased  to 25
+[22:50:27] Medium maul increased  to 7
+[22:53:36] Fighting increased  to 6
+[22:55:27] Medium maul increased  to 8
+[22:58:16] Butchering knife increased  to 10
+[23:04:17] Mauls increased  to 8
+[23:04:17] Medium maul increased  to 9
+[23:08:18] Medium maul increased  to 10
+[23:10:22] Fighting increased  to 7
+[23:17:19] Butchering knife increased  to 11
+[23:20:07] Medium maul increased  to 11
+[23:21:08] Butchering increased  to 7
+[23:22:28] Mauls increased  to 9
+[23:26:48] Normal fighting increased  to 26
+[23:27:05] Medium maul increased  to 12
+[23:29:27] Natural substances increased  to 13
+[23:34:38] Soul increased  to 11
+[23:38:16] Fighting increased  to 8
+[23:41:25] Knives increased  to 9
+[23:44:27] Medium maul increased  to 13
+[00:07:37] Mauls increased  to 10
+[00:10:30] Medium maul increased  to 14
+[00:13:18] Fighting increased  to 9
+[00:27:54] Healing increased  to 5
+Logging started 2011-12-08
+[16:50:11] Mining increased  to 33
+Logging started 2011-12-08
+[20:43:51] Repairing increased  to 17
+[20:46:41] Blacksmithing increased  to 22
+[23:10:07] Chain armour smithing increased  to 37
+Logging started 2011-12-08
+[23:54:33] Armour smithing increased  to 18
+[00:03:31] Smithing increased  to 25
+Logging started 2011-12-09
+[00:24:23] Chain armour smithing increased  to 38
+Logging started 2011-12-09
+[00:48:09] Body increased  to 20
+[00:51:37] Hammer increased  to 27
+[01:56:39] Chain armour smithing increased  to 39
+[02:00:00] Armour smithing increased  to 19
+Logging started 2011-12-09
+[19:02:35] Mind increased  to 16
+[20:13:45] Blacksmithing increased  to 23
+[20:35:13] Blades smithing increased  to 8
+[21:04:00] Smithing increased  to 26
+[21:15:21] Chain armour smithing increased  to 40
+[21:42:18] Armour smithing increased  to 20
+Logging started 2011-12-09
+[22:09:57] Butchering knife increased  to 12
+[22:24:19] First aid increased  to 13
+[22:24:49] Aggressive fighting increased  to 5
+[22:24:52] Fighting increased  to 10
+[22:27:32] Medium maul increased  to 15
+[22:27:55] Normal fighting increased  to 27
+[22:43:21] Mauls increased  to 11
+[22:44:02] Fighting increased  to 11
+[22:45:13] Butchering knife increased  to 13
+[22:47:31] Medium maul increased  to 16
+[22:50:58] Natural substances increased  to 14
+[22:51:26] Alchemy increased  to 6
+[22:53:33] Butchering increased  to 8
+Logging started 2011-12-09
+[23:09:16] Medium maul increased  to 17
+[23:11:50] Fighting increased  to 12
+[23:17:26] Knives increased  to 10
+[23:24:25] Medium maul increased  to 18
+[23:26:12] Mauls increased  to 12
+[23:29:38] Butchering knife increased  to 14
+[23:41:14] Fighting increased  to 13
+[23:44:05] Normal fighting increased  to 28
+[23:47:53] Medium maul increased  to 19
+[00:06:30] First aid increased  to 14
+[00:10:35] Medium maul increased  to 20
+[00:10:45] Fighting increased  to 14
+[00:11:21] Butchering knife increased  to 15
+[00:11:21] Cooking increased  to 5
+[00:16:44] Mauls increased  to 13
+[00:23:04] Knives increased  to 11
+[00:28:39] Natural substances increased  to 15
+[00:33:38] First aid increased  to 15
+Logging started 2011-12-10
+[15:56:45] Healing increased  to 6
+[16:00:28] Fighting increased  to 15
+[16:12:16] Butchering knife increased  to 16
+[16:19:55] Medium maul increased  to 21
+[16:37:22] Butchering increased  to 9
+[16:38:08] Mauls increased  to 14
+[16:45:39] Fighting increased  to 16
+[16:48:32] Tracking increased  to 5
+[16:51:49] Normal fighting increased  to 29
+[17:23:00] Natural substances increased  to 16
+[17:35:06] Woodcutting increased  to 10
+[17:35:31] Firemaking increased  to 7
+Logging started 2011-12-10
+[20:37:12] Mind logic increased  to 22
+[20:56:44] Chain armour smithing increased  to 41
+[21:38:23] Stone chisel increased  to 11
+[21:56:21] Smithing increased  to 27
+[22:00:43] Blacksmithing increased  to 24
+[22:18:10] Butchering knife increased  to 17
+[23:36:58] Chain armour smithing increased  to 42
+[23:42:36] Armour smithing increased  to 21
+[23:59:38] Hammer increased  to 28
+[00:40:37] Repairing increased  to 18
+[01:00:55] Shield smithing increased  to 2
+[01:03:42] Shield smithing increased  to 3
+[01:04:37] Shield smithing increased  to 4
+[01:07:26] Shield smithing increased  to 5
+[01:09:10] Shield smithing increased  to 6
+[01:12:08] Shield smithing increased  to 7
+[01:14:49] Shield smithing increased  to 8
+[01:20:34] Shield smithing increased  to 9
+[01:27:08] Shield smithing increased  to 10
+[01:34:18] Shield smithing increased  to 11
+[01:44:37] Shield smithing increased  to 12
+[01:49:25] Miscellaneous items increased  to 28
+Logging started 2011-12-11
+[13:25:05] Smithing increased  to 28
+[13:44:44] Repairing increased  to 19
+[14:22:06] Medium maul increased  to 22
+[15:33:28] Shield smithing increased  to 13
+[15:39:11] Shield smithing increased  to 14
+[15:44:19] Armour smithing increased  to 22
+[15:49:28] Shield smithing increased  to 15
+[15:56:37] Shield smithing increased  to 16
+[16:03:49] Shield smithing increased  to 17
+[16:11:44] Shield smithing increased  to 18
+[16:21:46] Shield smithing increased  to 19
+[16:47:01] Shields increased  to 2
+[16:47:21] Medium metal shield increased  to 2
+[16:47:21] Fighting increased  to 17
+[17:02:21] First aid increased  to 16
+[17:05:50] Mauls increased  to 15
+[17:16:24] Healing increased  to 7
+[17:19:30] First aid increased  to 17
+[17:27:23] Medium maul increased  to 23
+[17:27:38] Fighting increased  to 18
+[17:34:51] Medium metal shield increased  to 3
+[17:35:12] Normal fighting increased  to 30
+[17:36:07] Mind increased  to 17
+[17:36:38] Knives increased  to 12
+Logging started 2011-12-11
+[19:26:21] Fighting increased  to 19
+[19:26:56] Butchering knife increased  to 18
+[19:35:14] Shields increased  to 3
+[19:37:15] Natural substances increased  to 17
+[19:38:27] Alchemy increased  to 7
+[19:46:48] First aid increased  to 18
+[19:50:00] Mauls increased  to 16
+[19:53:02] Medium maul increased  to 24
+[20:07:47] Fighting increased  to 20
+[21:13:01] Stone cutting increased  to 20
+[21:20:33] Masonry increased  to 31
+[22:12:58] Stone chisel increased  to 12
+Logging started 2011-12-11
+[23:36:08] Chain armour smithing increased  to 43
+[00:16:29] Repairing increased  to 20
+Logging started 2011-12-12
+[20:53:20] Locksmithing increased  to 2
+[20:58:56] Locksmithing increased  to 3
+[21:04:38] Locksmithing increased  to 4
+[21:08:10] Locksmithing increased  to 5
+[21:12:13] Locksmithing increased  to 6
+[21:27:01] Locksmithing increased  to 7
+[21:35:23] Locksmithing increased  to 8
+[21:42:04] Locksmithing increased  to 9
+[21:54:59] Body strength increased  to 23
+[21:56:41] Locksmithing increased  to 10
+[22:14:35] Locksmithing increased  to 11
+[22:35:09] Locksmithing increased  to 12
+[22:39:51] Smithing increased  to 29
+[23:08:29] Locksmithing increased  to 13
+Logging started 2011-12-13
+[00:44:46] Medium metal shield increased  to 4
+[00:56:40] Butchering knife increased  to 19
+[00:59:08] Normal fighting increased  to 31
+[01:00:30] Fighting increased  to 21
+[01:05:31] Butchering increased  to 10
+[01:07:36] Mauls increased  to 17
+[01:11:59] Healing increased  to 8
+Logging started 2011-12-13
+[01:15:27] First aid increased  to 19
+[01:25:55] Medium maul increased  to 25
+[01:30:06] Shields increased  to 4
+[01:35:37] Knives increased  to 13
+[01:44:03] Medium metal shield increased  to 5
+[01:44:46] Fighting increased  to 22
+[02:10:39] Butchering knife increased  to 20
+Logging started 2011-12-13
+[16:05:47] Mauls increased  to 18
+[16:18:22] Medium metal shield increased  to 6
+[16:18:56] Fighting increased  to 23
+[16:28:46] Pickaxe increased  to 36
+[16:43:41] Mining increased  to 34
+Logging started 2011-12-13
+[20:34:42] Medium maul increased  to 26
+[20:36:11] Shields increased  to 5
+[20:57:27] Normal fighting increased  to 32
+[20:58:18] Fighting increased  to 24
+[20:59:16] Butchering increased  to 11
+[20:59:52] First aid increased  to 20
+[21:18:56] Digging increased  to 22
+[21:25:32] Shovel increased  to 13
+Logging started 2011-12-15
+[17:42:33] Metallurgy increased  to 2
+[17:43:50] Metallurgy increased  to 3
+[17:46:06] Metallurgy increased  to 4
+Logging started 2011-12-15
+[18:46:42] Locksmithing increased  to 14
+[19:08:11] Locksmithing increased  to 15
+[19:21:22] Chain armour smithing increased  to 44
+[19:43:05] Chain armour smithing increased  to 45
+[19:49:44] Armour smithing increased  to 23
+[20:24:08] Chain armour smithing increased  to 46
+[20:34:30] Body increased  to 21
+[20:44:25] Hammer increased  to 29
+[20:51:05] Smithing increased  to 30
+[21:01:48] Chain armour smithing increased  to 47
+Logging started 2011-12-16
+[01:01:57] Armour smithing increased  to 24
+[01:13:14] Chain armour smithing increased  to 48
+[01:58:52] Repairing increased  to 21
+Logging started 2011-12-16
+[21:45:48] Soul increased  to 12
+[21:53:46] Digging increased  to 23
+[22:00:59] Soul strength increased  to 21
+[22:30:03] Digging increased  to 24
+[23:01:59] Miscellaneous items increased  to 29
+Logging started 2011-12-17
+[15:58:57] Chain armour smithing increased  to 49
+[16:21:09] Mind increased  to 18
+[16:24:28] Chain armour smithing increased  to 50
+Logging started 2011-12-17
+[23:52:44] Mauls increased  to 19
+[23:52:59] Fighting increased  to 25
+[23:58:10] Medium metal shield increased  to 7
+[00:08:24] Mining has increased to rank 1 affinity
+[00:14:19] Medium maul increased  to 27
+[00:19:19] Butchering knife increased  to 21
+[00:20:01] Healing increased  to 9
+[00:30:52] Fighting increased  to 26
+[00:36:08] First aid increased  to 21
+[00:39:20] Knives increased  to 14
+[01:05:43] Firemaking increased  to 8
+[01:26:41] Smithing increased  to 31
+Logging started 2011-12-18
+[20:27:03] Shields increased  to 6
+[20:27:20] Medium metal shield increased  to 8
+Logging started 2011-12-18
+[22:04:23] Shovel increased  to 14
+[22:13:41] Digging increased  to 25
+[22:40:13] Digging increased  to 26
+[23:04:21] Cooking increased  to 6
+Logging started 2011-12-19
+[00:48:42] Mauls increased  to 20
+Logging started 2011-12-19
+[21:06:56] Shovel increased  to 15
+[21:56:19] Shovel increased  to 16
+[22:08:43] Digging increased  to 27
+[22:25:01] Shovel increased  to 17
+Logging started 2011-12-20
+[15:54:42] Normal fighting increased  to 33
+[15:58:28] Fighting increased  to 27
+[16:10:52] Medium maul increased  to 28
+[16:21:16] Soul increased  to 13
+[16:36:15] Fighting increased  to 28
+[16:42:58] Medium metal shield increased  to 9
+[16:45:06] First aid increased  to 22
+[17:04:19] Shields increased  to 7
+[17:20:55] Mauls increased  to 21
+[17:21:00] Fighting increased  to 29
+[17:23:05] Butchering knife increased  to 22
+[17:25:58] Knives increased  to 15
+Logging started 2011-12-20
+[21:50:58] Blacksmithing increased  to 25
+[22:12:30] Blacksmithing increased  to 26
+[22:22:09] Blacksmithing increased  to 27
+[22:29:30] Blacksmithing increased  to 28
+[22:31:42] Hammer increased  to 30
+[22:59:50] Blacksmithing increased  to 29
+[23:14:41] Smithing increased  to 32
+[23:18:14] Mind increased  to 19
+[23:19:08] Blacksmithing increased  to 30
+[23:22:53] Body control increased  to 22
+Logging started 2011-12-24
+[15:14:05] Medium maul increased  to 29
+Logging started 2011-12-25
+[00:37:33] Normal fighting increased  to 34
+[00:45:43] Butchering increased  to 12
+[00:47:12] Healing increased  to 10
+[00:50:20] Shield bashing increased  to 2
+[00:52:42] Medium metal shield increased  to 10
+[01:00:11] Fighting increased  to 30
+[01:15:00] Shields increased  to 8
+[01:16:12] First aid increased  to 23
+[01:18:43] Natural substances increased  to 18
+Logging started 2011-12-25
+[19:04:43] Medium metal shield increased  to 11
+[19:18:27] Medium maul increased  to 30
+Logging started 2011-12-25
+[20:54:23] Fighting increased  to 31
+[22:38:55] Locksmithing increased  to 16
+[00:11:08] Chain armour smithing increased  to 51
+[00:14:34] Miscellaneous items increased  to 30
+[00:15:17] Armour smithing increased  to 25
+Logging started 2011-12-27
+[15:39:16] Repairing increased  to 22
+[15:42:37] Blacksmithing increased  to 31
+[15:53:29] Weapon heads smithing increased  to 6
+[16:08:17] Hammer increased  to 31
+[16:38:02] Normal fighting increased  to 35
+[16:38:40] Medium metal shield increased  to 12
+[16:39:20] Shields increased  to 9
+[16:39:26] Weaponless fighting increased  to 3
+[16:51:11] Weaponless fighting increased  to 4
+[16:52:20] Medium metal shield increased  to 13
+[16:56:50] Shields increased  to 10
+Logging started 2011-12-27
+[19:18:39] Meditating increased  to 2
+[19:23:05] Hatchet increased  to 6
+[19:23:05] Woodcutting increased  to 11
+[20:47:14] Locksmithing increased  to 17
+Logging started 2011-12-28
+[20:21:55] Nature increased  to 5
+[20:38:59] Smithing increased  to 33
+[20:40:01] Weapon smithing increased  to 16
+[20:47:53] Blades smithing increased  to 9
+[21:03:05] Shield smithing increased  to 20
+[21:08:08] Weapon smithing increased  to 17
+[22:05:22] Healing increased  to 11
+[22:06:05] First aid increased  to 24
+[22:17:47] Normal fighting increased  to 36
+[22:18:33] Mauls increased  to 22
+[22:33:15] Climbing increased  to 4
+[22:39:25] Butchering knife increased  to 23
+[22:40:05] Medium metal shield increased  to 14
+[22:58:24] Fighting increased  to 32
+[23:34:09] Knives increased  to 16
+[00:21:20] Botanizing increased  to 6
+Logging started 2011-12-29
+[13:48:21] Tracking increased  to 6
+[13:50:29] Tracking increased  to 7
+[15:40:38] Foraging increased  to 8
+[16:25:19] Stone cutting increased  to 21
+[16:31:02] Stone chisel increased  to 13
+[16:34:49] Masonry increased  to 32
+[17:35:38] Meditating increased  to 3
+[17:38:22] Meditating increased  to 4
+[17:40:52] Meditating increased  to 5
+[17:46:56] Meditating increased  to 6
+[17:52:02] Meditating increased  to 7
+[17:56:12] Blacksmithing increased  to 32
+[18:36:54] Blacksmithing increased  to 33
+[18:48:25] Repairing increased  to 23
+[19:23:34] Blacksmithing increased  to 34
+[19:50:14] Hot food cooking increased  to 7
+[19:56:15] Mind increased  to 20
+[20:10:33] Pickaxe increased  to 37
+[20:11:20] Mining increased  to 35
+[20:14:55] Body strength increased  to 24
+[23:35:51] Soul increased  to 14
+[23:39:12] Mining increased  to 36
+[23:41:26] Pickaxe increased  to 38
+[00:03:03] Miscellaneous items increased  to 31
+[00:06:08] Body increased  to 22
+[00:19:52] Pickaxe increased  to 39
+[00:20:26] Mining increased  to 37
+Logging started 2011-12-30
+[14:29:30] Nature increased  to 6
+Logging started 2011-12-30
+[15:47:24] Hot food cooking increased  to 8
+[17:24:30] Medium maul increased  to 31
+[17:42:20] Tracking increased  to 8
+Logging started 2011-12-30
+[21:27:13] First aid increased  to 25
+[22:36:03] Large maul increased  to 8

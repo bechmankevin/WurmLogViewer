@@ -2,7 +2,7 @@ package wurmlogs;
 
 /**
  * @author Kevin Bechman
- *
+ * Represents a given date in the log files
  */
 public class WTime implements Comparable<WTime> {
 	private int year, month, day;
@@ -14,7 +14,7 @@ public class WTime implements Comparable<WTime> {
 	
 	@Override
 	public int hashCode() {
-		int h = day * month + year;
+		int h = day * month * year;
 		return h;
 	}
 	

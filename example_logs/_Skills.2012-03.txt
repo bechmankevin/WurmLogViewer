@@ -1,0 +1,298 @@
+Logging started 2012-03-01
+[16:03:08] Faith increased  to 19
+[16:52:16] Shovel increased  to 37
+[17:39:47] Prayer increased  to 6
+Logging started 2012-03-03
+[00:19:42] Normal fighting increased  to 48
+Logging started 2012-03-03
+[12:44:27] Natural substances increased  to 21
+[13:15:08] Animal husbandry increased  to 5
+[13:16:03] Animal husbandry increased  to 6
+[13:21:29] Nature increased  to 12
+[13:25:17] Animal husbandry increased  to 7
+[13:28:44] Animal husbandry increased  to 8
+[13:35:37] Faith increased  to 20
+[13:41:56] Meditating increased  to 21
+[13:45:30] Blades smithing increased  to 30
+[13:49:22] Weapon heads smithing increased  to 29
+[14:06:50] Weapon heads smithing increased  to 30
+[14:07:38] Plate armour smithing increased  to 23
+[14:17:00] Plate armour smithing increased  to 24
+[14:23:51] Armour smithing increased  to 31
+[14:24:12] Plate armour smithing increased  to 25
+Logging started 2012-03-04
+[01:00:47] Smithing increased  to 47
+[01:06:35] Plate armour smithing increased  to 26
+[01:14:43] Plate armour smithing increased  to 27
+[01:22:25] Plate armour smithing increased  to 28
+[01:23:03] Body increased  to 29
+[01:37:37] Plate armour smithing increased  to 29
+[01:58:29] Hammer increased  to 40
+[02:00:28] Faith increased  to 21
+Logging started 2012-03-04
+[15:36:00] Small maul increased  to 2
+[15:36:51] Small maul increased  to 3
+[15:37:12] Small maul increased  to 4
+[15:45:13] Plate armour smithing increased  to 30
+[15:47:36] Repairing increased  to 35
+[15:55:16] Plate armour smithing increased  to 31
+[16:00:42] Aggressive fighting increased  to 9
+[16:10:18] Armour smithing increased  to 32
+[16:11:37] Plate armour smithing increased  to 32
+Logging started 2012-03-04
+[18:44:20] Faith increased  to 22
+[18:58:17] Carpentry increased  to 6
+[19:06:20] Carving knife increased  to 9
+Logging started 2012-03-04
+[20:09:19] Fletching increased  to 2
+[20:11:02] Carpentry increased  to 7
+[20:14:03] Fletching increased  to 3
+[20:19:59] Fletching increased  to 4
+[20:23:45] Fletching increased  to 5
+Logging started 2012-03-05
+[16:36:27] Weapon smithing increased  to 32
+[17:07:31] Small maul increased  to 5
+[17:09:51] Small maul increased  to 6
+[17:31:49] Small maul increased  to 7
+[17:33:55] Small maul increased  to 8
+[17:45:13] Fighting decreased  to 69
+Logging started 2012-03-05
+[19:41:49] Small maul increased  to 9
+[19:48:44] Small maul increased  to 10
+[19:51:44] Small maul increased  to 11
+[19:52:23] Fighting increased  to 70
+[19:55:52] Small maul increased  to 12
+[19:59:31] Body control increased  to 25
+[20:09:34] Small maul increased  to 13
+[20:18:04] Small maul increased  to 14
+[20:24:05] Small maul increased  to 15
+[20:32:53] Large metal shield increased  to 33
+[20:33:31] Small maul increased  to 16
+[20:41:11] Small maul increased  to 17
+[20:49:22] Small maul increased  to 18
+[20:54:10] Small maul increased  to 19
+[21:15:24] Repairing increased  to 36
+[21:20:16] Faith increased  to 23
+[21:37:11] Shields increased  to 33
+[21:44:01] Small maul increased  to 20
+Logging started 2012-03-06
+[01:21:22] Prayer increased  to 7
+Logging started 2012-03-06
+[17:09:20] Digging increased  to 49
+[20:42:45] Mind logic increased  to 28
+[21:03:07] Faith increased  to 24
+Logging started 2012-03-07
+[16:55:40] Small maul increased  to 21
+Logging started 2012-03-07
+[19:48:50] Carpentry increased  to 8
+[19:51:13] Fletching increased  to 6
+[19:58:02] Fletching increased  to 7
+[19:59:37] Carpentry increased  to 9
+[20:04:39] Fletching increased  to 8
+[20:11:45] Fletching increased  to 9
+[20:13:01] Carpentry increased  to 10
+[20:43:54] First aid increased  to 35
+Logging started 2012-03-08
+[15:33:58] Religion increased  to 3
+[15:33:58] Faith increased  to 25
+[15:36:56] Large metal shield increased  to 34
+[16:59:09] Healing increased  to 20
+Logging started 2012-03-09
+[19:45:01] Firemaking increased  to 15
+[19:54:14] Defensive fighting increased  to 20
+[20:53:48] Weapon smithing increased  to 33
+[20:59:03] Smithing increased  to 48
+Logging started 2012-03-10
+[13:17:52] Weapon smithing increased  to 34
+[13:55:03] Metallurgy increased  to 12
+[14:02:31] Hammer increased  to 41
+[14:49:11] Weapon smithing increased  to 35
+Logging started 2012-03-11
+[14:04:31] Faith increased  to 26
+[14:46:01] Metallurgy increased  to 13
+[15:07:58] Metallurgy increased  to 14
+[15:19:14] Plate armour smithing increased  to 33
+Logging started 2012-03-12
+[20:11:09] Metallurgy increased  to 15
+[20:18:41] Metallurgy increased  to 16
+[20:34:05] Smithing increased  to 49
+[20:34:05] Plate armour smithing increased  to 34
+[20:35:21] Repairing increased  to 37
+[20:45:30] Plate armour smithing increased  to 35
+[20:59:25] Plate armour smithing increased  to 36
+[21:13:02] Armour smithing increased  to 33
+Logging started 2012-03-14
+[20:29:39] Plate armour smithing increased  to 37
+[20:47:44] Plate armour smithing increased  to 38
+[20:58:38] Plate armour smithing increased  to 39
+[21:22:31] Faith increased  to 27
+Logging started 2012-03-16
+[16:40:47] Animal husbandry increased  to 9
+[16:43:58] Animal husbandry increased  to 10
+[16:46:07] Animal husbandry increased  to 11
+[16:48:45] Animal husbandry increased  to 12
+[16:50:35] Animal husbandry increased  to 13
+[16:56:18] Nature increased  to 13
+[16:56:18] Animal husbandry increased  to 14
+[17:24:46] Prayer increased  to 8
+Logging started 2012-03-17
+[20:27:23] Plate armour smithing increased  to 40
+[20:46:08] Plate armour smithing increased  to 41
+[20:49:54] Armour smithing increased  to 34
+[20:58:09] Plate armour smithing increased  to 42
+[21:27:57] Hammer increased  to 42
+[21:30:19] Plate armour smithing increased  to 43
+[21:37:27] Smithing increased  to 50
+[21:45:15] Plate armour smithing increased  to 44
+[22:04:24] Plate armour smithing increased  to 45
+[22:22:34] Plate armour smithing increased  to 46
+[22:29:34] Armour smithing increased  to 35
+[22:33:26] Faith increased  to 28
+Logging started 2012-03-18
+[15:48:15] Animal husbandry increased  to 15
+[15:54:33] Animal husbandry increased  to 16
+[15:58:49] Animal husbandry increased  to 17
+[16:01:05] Faith increased  to 29
+[16:04:21] Long bow increased  to 2
+[16:04:58] Archery increased  to 2
+[16:05:06] Long bow increased  to 3
+[16:06:04] Archery increased  to 3
+[16:07:47] Archery increased  to 4
+[16:08:19] Long bow increased  to 4
+[16:10:04] Archery increased  to 5
+[16:12:09] Archery increased  to 6
+[16:12:52] Long bow increased  to 5
+[16:13:49] Archery increased  to 7
+[16:16:19] Long bow increased  to 6
+[16:16:19] Archery increased  to 8
+[16:20:32] Archery increased  to 9
+[16:30:10] Prayer increased  to 9
+[17:08:43] Blacksmithing increased  to 48
+Logging started 2012-03-18
+[19:45:05] Archery increased  to 10
+[19:45:19] Long bow increased  to 7
+[19:46:49] Archery increased  to 11
+[19:48:14] Long bow increased  to 8
+[19:50:58] Archery increased  to 12
+[19:51:26] Long bow increased  to 9
+[19:52:01] Archery increased  to 13
+[19:54:22] Long bow increased  to 10
+[19:54:47] Archery increased  to 14
+[19:55:48] Archery increased  to 15
+[19:56:02] Long bow increased  to 11
+[19:57:49] Archery increased  to 16
+[19:58:03] Long bow increased  to 12
+[19:58:58] Archery increased  to 17
+[19:59:39] Long bow increased  to 13
+[20:00:07] Archery increased  to 18
+[20:01:52] Long bow increased  to 14
+[20:02:05] Archery increased  to 19
+[20:03:14] Archery increased  to 20
+[20:03:38] Long bow increased  to 15
+[20:05:58] Long bow increased  to 16
+[20:06:04] Archery increased  to 21
+[20:07:39] Long bow increased  to 17
+[20:07:39] Archery increased  to 22
+[20:10:52] Long bow increased  to 18
+[20:11:30] Archery increased  to 23
+[20:20:16] Long bow increased  to 19
+[20:20:22] Archery increased  to 24
+[20:23:24] Long bow increased  to 20
+[20:25:01] Archery increased  to 25
+[20:29:50] Long bow increased  to 21
+[20:30:02] Archery increased  to 26
+[20:37:54] Long bow increased  to 22
+[20:38:35] Archery increased  to 27
+[20:51:07] Shovel increased  to 38
+Logging started 2012-03-19
+[17:27:23] Farming increased  to 2
+Logging started 2012-03-19
+[17:57:23] Miscellaneous items increased  to 45
+Logging started 2012-03-19
+[20:13:32] Digging increased  to 50
+[20:59:22] Shovel increased  to 39
+Logging started 2012-03-20
+[20:33:27] Faith increased  to 30
+[22:31:48] Body strength increased  to 32
+Logging started 2012-03-21
+[16:15:06] Stone chisel increased  to 21
+Logging started 2012-03-22
+[22:03:52] Animal husbandry increased  to 18
+[22:11:59] Nature increased  to 14
+Logging started 2012-03-23
+[21:06:03] Large metal shield increased  to 35
+[21:27:30] Small maul increased  to 22
+[21:27:32] Shields increased  to 34
+[22:24:20] Mauls increased  to 40
+[22:37:00] Foraging increased  to 8
+Logging started 2012-03-24
+[15:51:19] Small maul increased  to 23
+Logging started 2012-03-24
+[22:23:54] Climbing increased  to 11
+Logging started 2012-03-25
+[12:10:53] Faith decreased  to 6
+[12:11:34] Faith increased  to 7
+[14:06:09] Faith increased  to 8
+[15:20:19] Body increased  to 30
+[15:54:10] Repairing has decreased to rank 0 affinity
+Logging started 2012-03-26
+[15:39:18] Faith increased  to 9
+[16:25:00] Masonry increased  to 42
+[21:06:08] Digging increased  to 51
+Logging started 2012-03-27
+[16:24:24] Stone cutting increased  to 28
+[16:25:23] Stone chisel increased  to 22
+[16:38:48] Mind increased  to 26
+[16:38:48] Stone cutting increased  to 29
+[16:43:01] Masonry increased  to 43
+Logging started 2012-03-27
+[20:00:17] Faith increased  to 10
+[20:41:27] Repairing increased  to 38
+[21:27:28] Alchemy increased  to 9
+Logging started 2012-03-28
+[14:32:12] Carpentry increased  to 11
+[14:36:12] Thievery increased  to 2
+[15:03:30] Blacksmithing increased  to 49
+[16:08:28] Chain armour smithing increased  to 61
+[16:12:54] Smithing increased  to 51
+[16:49:05] Blacksmithing increased  to 50
+[16:50:17] Hammer increased  to 43
+[17:14:37] Metallurgy increased  to 17
+Logging started 2012-03-28
+[18:57:09] Lock picking increased  to 2
+[19:16:05] Faith increased  to 11
+[19:43:11] Plate armour smithing increased  to 47
+[19:49:08] Armour smithing increased  to 36
+[20:33:18] Plate armour smithing increased  to 48
+[20:56:12] Plate armour smithing increased  to 49
+Logging started 2012-03-28
+[23:10:40] Defensive fighting increased  to 21
+[23:58:06] Lock picking increased  to 3
+Logging started 2012-03-29
+[17:15:24] Metallurgy increased  to 18
+[17:18:17] Metallurgy increased  to 19
+[17:22:47] Metallurgy increased  to 20
+Logging started 2012-03-29
+[22:13:05] Thievery increased  to 3
+[22:13:05] Lock picking increased  to 4
+[22:48:59] Lock picking increased  to 5
+[23:24:13] Blacksmithing increased  to 51
+[23:26:31] Smithing increased  to 52
+[23:52:04] Thievery increased  to 4
+[23:52:04] Lock picking increased  to 6
+Logging started 2012-03-30
+[19:08:42] Blacksmithing increased  to 52
+[19:55:23] Plate armour smithing increased  to 50
+[20:28:43] Armour smithing increased  to 37
+[20:33:23] Plate armour smithing increased  to 51
+[20:49:04] Hammer increased  to 44
+[21:04:30] Plate armour smithing increased  to 52
+Logging started 2012-03-31
+[14:35:42] Prayer increased  to 10
+[14:35:42] Faith increased  to 12
+Logging started 2012-03-31
+[18:07:52] Meditating increased  to 22
+[18:08:48] Thievery increased  to 5
+[18:08:48] Lock picking increased  to 7
+Logging started 2012-03-31
+[22:32:29] Fighting decreased  to 69

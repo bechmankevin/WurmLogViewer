@@ -1,0 +1,55 @@
+Logging started 2012-01-16
+[16:55:55] Father slain by Kellyt Ryaa Borken 
+[17:50:11] Valeuhwie slain by Kellyt Ryaa Borken 
+[18:43:00] Khatanka slain by Kellyt 
+[18:44:37] Father slain by Hellfang Jackburton Tryfaen Borken 
+[19:10:51] Loupkiller slain by Hellfang Jackburton Chandlerz Borken 
+[19:11:04] Khatanka slain by Hellfang Tryfaen Ezalor Borken 
+[19:16:04] Kellyt slain by Bartimaeus Aeva Sinnz Valeuhwie 
+[21:16:54] Michieldewit slain by Hellfang Tryfaen 
+Logging started 2012-01-17
+[20:42:58] Sinnz slain by Father 
+Logging started 2012-01-19
+[21:28:12] Rodnar slain by Hellfang Tryfaen Ezalor 
+[22:16:39] Rodnar slain by Ezalor 
+Logging started 2012-01-21
+[19:01:45] Aeva slain by Hellfang Entendu Tryfaen Borken 
+[19:22:14] Valeuhwie slain by Kellyt Hellfang Jackburton Ryaa Entendu Chandlerz Ezalor 
+[19:22:26] Aeva slain by Hellfang Kellyt Jackburton Ryaa Ezalor 
+[19:43:03] Aeva slain by Kellyt Hellfang Ryaa Entendu Ezalor 
+[19:43:18] Valeuhwie slain by Jackburton Entendu Ezalor 
+[20:07:04] Moot slain by Hellfang Kellyt Ryaa Chandlerz Borken Awakening 
+Logging started 2012-01-22
+[18:35:12] Mechanicalchicken slain by Aibehn Liltenhead Overheadace 
+Logging started 2012-01-26
+[20:56:49] Aeva slain by Kellyt Nexangelus Daredevil Borken 
+[21:00:35] Valeuhwie slain by Kellyt Nexangelus Daredevil Borken 
+[21:14:59] Kellyt slain by Father Khatanka 
+[21:16:02] Khatanka slain by Nexangelus Daredevil Borken 
+[21:20:29] Father slain by Daredevil Borken 
+[21:20:42] Khatanka slain by Nexangelus Daredevil Borken 
+[21:28:27] Khatanka slain by Nexangelus Daredevil Borken 
+Logging started 2012-01-26
+[21:39:56] Jahpeople slain by Nexangelus Daredevil Borken 
+[21:46:12] Drakoz slain by Nexangelus Daredevil Borken 
+[21:57:30] Father slain by Nexangelus Daredevil Borken 
+[21:59:31] Jahpeople slain by Nexangelus Daredevil Borken 
+[21:59:47] Drakoz slain by Nexangelus Daredevil Borken 
+[21:59:57] Valeuhwie slain by Nexangelus Daredevil 
+[22:12:21] Drakoz slain by Daredevil Borken 
+[22:15:29] Drakoz slain by Daredevil 
+[22:23:27] Drakoz slain by Nexangelus Daredevil Borken 
+Logging started 2012-01-28
+[17:49:52] Melpy slain by Bartimaeus Thehunter Gisa Zaha Devildog 
+[23:21:24] Jackburton slain by Zaha Plebina Elkadar 
+[00:40:08] Zaha slain by Jackburton Nexangelus Daredevil Awakening 
+[00:40:21] Michieldewit slain by Hellfang Jackburton Nexangelus Tryfaen Edlardo Daredevil Awakening 
+[00:40:37] Elkadar slain by Jackburton Melpy Tryfaen Edlardo Cndo Awakening 
+[00:40:41] Plebina slain by Hellfang Melpy Nexangelus Tryfaen Cndo Daredevil Awakening 
+Logging started 2012-01-29
+[17:25:50] Gisa slain by Ryaa Daredevil Borken 
+[17:37:36] Tedrick slain by Kellyt Borken 
+[17:45:34] Loupkiller slain by Kellyt Ryaa Daredevil Borken 
+[17:46:39] Khatanka slain by Kellyt Ryaa Daredevil 
+[17:48:58] Gisa slain by Daredevil 
+[17:57:34] Loupkiller slain by Daredevil Borken 

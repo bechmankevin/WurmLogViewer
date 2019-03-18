@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * @author Kevin Bechman
- *
+ * Contains a list of LogRef objects (stored in an ArrayList) that were found for the given date
  */
 public class LogRefList {
 	public ArrayList<LogRef> list;

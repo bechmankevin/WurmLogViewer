@@ -1,0 +1,15 @@
+***TODO***
+-[DONE!]Figure out full method of reading/saving log information to make later reading much faster
+-display only the proper chat tab name ("Village" instead of "_Village.2012-09")
+-figure out how to read certain dates from log title... 
+-[low priority] ynamically manage frame and its components rather than through global variables
+-Give option for user to order the chat tabs
+-(Long-Term) Add a system that executes background tasks while user browses chat
+-Save hashmap object so it doesn't have to be re-indexed every time the user opens program
+-[URGENT] memory keeps piling up, find and fix
+-allow user to select a range of dates
+-[low priority] switch to actual date system?
+-add "next day" and "prev day" buttons
+-account for (2) in tab title
+-add button for setting home log directory
+    -Have it give a pop-up window with example path and textfield to enter it, with another button to submit

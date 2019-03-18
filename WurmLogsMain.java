@@ -30,7 +30,9 @@ import javax.swing.text.StyledDocument;
 
 /**
  * @author Kevin Bechman
- *
+ * Application for use with text file logs from the MMORPG Wurm Online.
+ * This program indexes the entire directory of log files, then allows the user to enter a given date.
+ * The logs from that date are then displayed on separate tabs for the user to peruse.
  */
 public class WurmLogsMain extends JFrame {
 	private static final long serialVersionUID = -5452465131304495441L;
@@ -52,12 +54,11 @@ public class WurmLogsMain extends JFrame {
 
 	// Date variables
 	private JFormattedTextField dateField;
-	private JFormattedTextField dirField;
 	private SimpleDateFormat dateFormat;
 	private String searchDateStr;
 
 	/**
-	 * 
+	 * Sets up the UI for the application
 	 * @throws Exception
 	 */
 	public WurmLogsMain() throws Exception {
@@ -66,7 +67,7 @@ public class WurmLogsMain extends JFrame {
 
 		setup();
 
-		/** GUI Setup **/
+		/** UI Setup **/
 
 		Container cp = getContentPane();
 		cp.setLayout(new GridBagLayout());
@@ -204,7 +205,8 @@ public class WurmLogsMain extends JFrame {
 	}
 
 	/**
-	 * Does stuff
+	 * Iterates through the LogRefList for the date given by the user, and stores the results in global
+	 * arrays to be displayed in the UI
 	 * @throws IOException
 	 */
 	public void scanFilesForDate() throws IOException {
@@ -220,7 +222,7 @@ public class WurmLogsMain extends JFrame {
 		File[] files = new File[logFiles.length];
 
 		System.out.println("Search for: " + searchDateStr + "...");
-
+		
 		WTime userDate = new WTime(Integer.parseInt(searchDateStr.substring(0, 4)),
 				Integer.parseInt(searchDateStr.substring(5, 7)), Integer.parseInt(searchDateStr.substring(8, 10)));
 		LogRefList refList = logTracker.get(userDate);

@@ -1,0 +1,329 @@
+Logging started 2012-02-01
+[16:33:41] Body increased  to 26
+[17:47:47] Masonry increased  to 37
+[20:45:04] Large metal shield increased  to 11
+[21:10:41] Normal fighting increased  to 44
+[22:20:08] Tracking increased  to 9
+[22:22:20] Tracking increased  to 10
+Logging started 2012-02-02
+[16:08:47] Prayer increased  to 2
+[16:08:47] Faith increased  to 2
+[16:17:17] Masonry increased  to 38
+Logging started 2012-02-02
+[19:34:13] Stone chisel increased  to 19
+[23:12:03] Mauls increased  to 34
+Logging started 2012-02-03
+[14:43:44] Large metal shield increased  to 12
+Logging started 2012-02-04
+[14:33:03] Shields increased  to 21
+[15:04:13] Fighting increased  to 55
+[15:07:24] Large metal shield increased  to 13
+[15:11:20] First aid increased  to 32
+[15:34:16] Medium maul increased  to 41
+[16:05:31] Pickaxe increased  to 51
+[16:18:10] Miscellaneous items increased  to 41
+[17:07:13] Large metal shield increased  to 14
+Logging started 2012-02-04
+[20:26:17] Firemaking increased  to 12
+[22:27:31] Blacksmithing increased  to 41
+[22:40:20] Weapon smithing increased  to 23
+[00:19:30] Shields increased  to 22
+Logging started 2012-02-05
+[00:36:29] Large metal shield increased  to 15
+[00:52:47] Fighting increased  to 56
+Logging started 2012-02-05
+[14:11:43] Large metal shield increased  to 16
+[14:48:03] Mind speed increased  to 22
+[14:54:16] Mauls increased  to 35
+[14:56:24] Large metal shield increased  to 17
+[14:56:41] Fighting increased  to 57
+[15:06:05] Shields increased  to 23
+[15:13:42] Medium maul increased  to 42
+[15:29:41] Large metal shield increased  to 18
+[15:36:51] Normal fighting increased  to 45
+[15:49:52] Butchering knife increased  to 32
+[16:02:39] Fighting increased  to 58
+[16:04:04] Healing increased  to 17
+[17:04:28] Repairing has increased to rank 1 affinity
+Logging started 2012-02-05
+[23:49:08] Body strength increased  to 29
+[00:02:32] Woodcutting increased  to 16
+[00:22:28] Smithing increased  to 40
+[00:31:45] Weapon smithing increased  to 24
+[00:50:14] Chain armour smithing increased  to 57
+[01:27:23] Shield smithing increased  to 23
+[01:28:14] Repairing increased  to 29
+[02:09:22] Shield smithing increased  to 24
+Logging started 2012-02-06
+[19:31:13] Aggressive fighting increased  to 7
+[19:38:10] Large metal shield increased  to 19
+[20:23:47] Shields increased  to 24
+[20:28:28] Mind increased  to 24
+[20:30:30] Large metal shield increased  to 20
+[20:31:57] Fighting increased  to 59
+[21:40:22] Fighting increased  to 60
+[21:43:03] First aid increased  to 33
+[22:07:31] Large metal shield increased  to 21
+[22:09:46] Plate armour smithing decreased  to 2
+[22:33:27] Mauls increased  to 36
+[22:41:22] Shields increased  to 25
+[23:07:54] Medium maul increased  to 43
+Logging started 2012-02-07
+[16:07:15] Pottery increased  to 2
+[16:13:51] Pottery increased  to 3
+[16:14:58] Pottery increased  to 4
+[16:18:19] Pottery increased  to 5
+Logging started 2012-02-08
+[17:39:11] Hammer increased  to 35
+[20:38:44] Fighting increased  to 61
+[20:48:14] Healing increased  to 18
+[22:50:46] Mining increased  to 50
+[23:12:08] Miscellaneous items increased  to 42
+[23:36:47] Prospecting increased  to 14
+[23:37:56] Prospecting increased  to 15
+[23:39:32] Prospecting increased  to 16
+[23:41:05] Prospecting increased  to 17
+[23:42:53] Prospecting increased  to 18
+Logging started 2012-02-09
+[15:34:06] Climbing increased  to 10
+[16:17:18] Aggressive fighting increased  to 8
+[19:55:56] Masonry increased  to 39
+[20:02:38] Mind logic increased  to 27
+[23:32:43] Stone chisel increased  to 20
+[00:07:11] Metallurgy increased  to 7
+[00:13:37] Metallurgy increased  to 8
+[00:19:07] Metallurgy increased  to 9
+Logging started 2012-02-10
+[20:43:20] Mining has decreased to rank 0 affinity
+[21:08:27] Axes increased  to 8
+[21:40:23] Smithing increased  to 41
+[21:57:34] Armour smithing increased  to 28
+[22:03:50] Weapon smithing increased  to 25
+[22:21:33] Repairing increased  to 30
+[22:40:53] Shield smithing increased  to 25
+Logging started 2012-02-11
+[12:59:43] Large metal shield increased  to 22
+[13:23:45] Fighting increased  to 62
+[13:41:46] Normal fighting increased  to 46
+[13:49:25] Body increased  to 27
+[13:53:52] Shields increased  to 26
+[14:17:44] Large metal shield increased  to 23
+[14:57:17] Medium maul increased  to 44
+[14:57:27] Fighting increased  to 63
+[15:03:47] Botanizing increased  to 7
+[15:08:36] Botanizing increased  to 8
+[15:16:36] Botanizing increased  to 9
+[15:17:20] Mauls increased  to 37
+Logging started 2012-02-11
+[22:04:35] Tracking increased  to 11
+[22:10:46] Tracking increased  to 12
+Logging started 2012-02-12
+[11:48:46] Large metal shield increased  to 24
+[12:15:51] Knives increased  to 24
+[12:27:47] First aid increased  to 34
+[12:44:38] Shields increased  to 27
+[13:36:17] Pickaxe increased  to 52
+[14:18:19] Soul strength increased  to 25
+[15:35:09] Stone cutting increased  to 27
+Logging started 2012-02-13
+[18:27:47] Shield smithing increased  to 26
+Logging started 2012-02-13
+[19:45:11] Metallurgy increased  to 10
+[20:08:27] Plate armour smithing increased  to 3
+[20:08:47] Plate armour smithing increased  to 4
+[20:09:35] Plate armour smithing increased  to 5
+[20:10:14] Plate armour smithing increased  to 6
+[20:11:14] Plate armour smithing increased  to 7
+[20:15:06] Plate armour smithing increased  to 8
+[20:17:23] Plate armour smithing increased  to 9
+[20:20:53] Plate armour smithing increased  to 10
+[20:24:07] Plate armour smithing increased  to 11
+[20:26:02] Plate armour smithing increased  to 12
+[20:29:09] Plate armour smithing increased  to 13
+[20:32:24] Plate armour smithing increased  to 14
+[20:35:42] Plate armour smithing increased  to 15
+[20:38:53] Plate armour smithing increased  to 16
+Logging started 2012-02-14
+[15:24:27] Woodcutting increased  to 17
+[15:25:46] Firemaking increased  to 13
+[15:44:05] Chain armour smithing increased  to 58
+[16:08:57] Smithing increased  to 42
+[16:13:06] Blacksmithing increased  to 42
+[16:30:47] Hammer increased  to 36
+[16:45:20] Weapon smithing increased  to 26
+[16:57:52] Repairing increased  to 31
+[17:16:31] Hatchet increased  to 10
+[17:22:13] Woodcutting increased  to 18
+[17:23:00] Hatchet increased  to 11
+Logging started 2012-02-14
+[23:45:02] Butchering increased  to 21
+Logging started 2012-02-15
+[16:32:36] Body control increased  to 24
+Logging started 2012-02-15
+[18:08:27] Weapon smithing increased  to 27
+Logging started 2012-02-16
+[19:06:43] Armour smithing increased  to 29
+[20:49:39] Body strength increased  to 30
+[20:52:36] Smithing increased  to 43
+Logging started 2012-02-17
+[11:51:43] Faith increased  to 3
+[12:08:22] Prospecting increased  to 19
+[12:09:56] Prospecting increased  to 20
+[12:14:15] Prospecting increased  to 21
+Logging started 2012-02-17
+[17:56:32] Axes increased  to 9
+[18:38:07] Chain armour smithing increased  to 59
+[20:34:18] Repairing increased  to 32
+Logging started 2012-02-18
+[13:25:42] Fighting increased  to 64
+[13:32:51] Large metal shield increased  to 25
+[14:02:25] Soul increased  to 22
+[14:39:11] Shields increased  to 28
+[14:46:31] Large metal shield increased  to 26
+[14:46:36] Fighting increased  to 65
+[15:37:31] Butchering knife increased  to 33
+[15:45:46] Mauls increased  to 38
+[15:46:16] Medium maul increased  to 45
+[15:46:16] Fighting increased  to 66
+[15:51:51] Large metal shield increased  to 27
+[15:59:24] Normal fighting increased  to 47
+[16:32:31] Shields increased  to 29
+[16:40:24] Tracking increased  to 13
+Logging started 2012-02-19
+[12:15:35] Cooking increased  to 10
+[12:28:29] Defensive fighting increased  to 5
+[12:29:35] Animal taming increased  to 7
+Logging started 2012-02-19
+[13:55:31] Shield smithing increased  to 27
+[14:14:50] Hammer increased  to 37
+[14:28:54] Weapon smithing increased  to 28
+[14:35:48] Shield smithing increased  to 28
+[14:47:20] Armour smithing increased  to 30
+[14:53:33] Smithing increased  to 44
+[15:36:18] Fighting increased  to 67
+[15:41:42] Large metal shield increased  to 28
+[16:06:02] Healing increased  to 19
+Logging started 2012-02-20
+[00:32:13] Fighting increased  to 68
+[00:56:27] Shields increased  to 30
+[01:18:55] Plate armour smithing increased  to 17
+[01:23:00] Plate armour smithing increased  to 18
+[01:26:22] Plate armour smithing increased  to 19
+[01:30:46] Plate armour smithing increased  to 20
+[01:38:37] Plate armour smithing increased  to 21
+[01:56:06] Metallurgy increased  to 11
+[02:04:07] Plate armour smithing increased  to 22
+Logging started 2012-02-20
+[13:02:22] Meditating increased  to 17
+Logging started 2012-02-20
+[14:31:34] Meditating increased  to 18
+[14:43:34] Nature increased  to 11
+[14:47:10] Meditating increased  to 19
+[15:56:54] Meditating increased  to 20
+[15:59:00] Repairing increased  to 33
+[16:21:18] Miscellaneous items increased  to 43
+[16:33:01] Faith increased  to 4
+Logging started 2012-02-20
+[20:18:58] Shield bashing decreased  to 2
+[20:18:58] Meditating decreased  to 19
+Logging started 2012-02-20
+[23:54:49] Masonry increased  to 40
+[01:36:19] Body increased  to 28
+Logging started 2012-02-21
+[15:45:11] Woodcutting increased  to 19
+[16:55:35] Large metal shield increased  to 29
+[17:35:56] Fighting increased  to 69
+[18:48:06] Large metal shield increased  to 30
+[20:10:39] Medium maul increased  to 46
+[20:34:12] Mind increased  to 25
+[20:59:13] Pickaxe increased  to 53
+[21:05:24] Mining increased  to 51
+[21:31:23] Shields increased  to 31
+[21:41:27] Fighting increased  to 70
+Logging started 2012-02-22
+[15:22:09] Faith increased  to 5
+[15:29:03] Prayer increased  to 3
+[15:58:45] Prayer increased  to 4
+[15:58:45] Faith increased  to 6
+[16:38:48] Woodcutting increased  to 20
+[16:40:19] Axes increased  to 10
+[17:14:06] Blacksmithing increased  to 43
+[17:33:56] Chain armour smithing increased  to 60
+Logging started 2012-02-22
+[20:01:37] Faith increased  to 7
+Logging started 2012-02-22
+[20:34:35] Meditating increased  to 20
+[20:45:40] Faith increased  to 8
+Logging started 2012-02-22
+[20:59:09] Hatchet increased  to 12
+Logging started 2012-02-22
+[23:24:21] Shovel increased  to 36
+Logging started 2012-02-23
+[15:44:01] Faith increased  to 9
+[16:06:41] Masonry increased  to 41
+[16:21:44] Firemaking increased  to 14
+[16:34:58] Hammer increased  to 38
+[17:08:56] Blacksmithing increased  to 44
+Logging started 2012-02-23
+[21:45:13] Faith increased  to 10
+[22:27:07] Smithing increased  to 45
+[22:41:15] Blacksmithing increased  to 45
+[23:51:48] Blacksmithing increased  to 46
+Logging started 2012-02-24
+[22:35:24] Prayer increased  to 5
+[22:35:24] Faith increased  to 11
+Logging started 2012-02-25
+[12:35:14] Religion increased  to 2
+[12:35:14] Faith increased  to 12
+Logging started 2012-02-25
+[15:02:34] Faith increased  to 13
+[15:58:35] Weapon smithing increased  to 29
+[16:40:17] Repairing increased  to 34
+[17:52:20] Faith increased  to 14
+Logging started 2012-02-25
+[19:53:18] Faith increased  to 15
+[19:57:47] Digging increased  to 48
+[21:01:50] Tracking increased  to 14
+Logging started 2012-02-26
+[13:56:31] Soul depth increased  to 21
+[14:24:28] Weapon smithing increased  to 30
+[14:27:52] Smithing increased  to 46
+[14:33:21] Hammer increased  to 39
+[14:53:37] Blacksmithing increased  to 47
+[14:57:42] Body strength increased  to 31
+Logging started 2012-02-26
+[20:30:40] Faith increased  to 16
+Logging started 2012-02-28
+[21:11:01] Faith increased  to 17
+[21:21:26] Mauls increased  to 39
+Logging started 2012-02-29
+[16:27:53] Weapon heads smithing increased  to 25
+[16:39:40] Blades smithing increased  to 26
+[16:51:57] Blades smithing increased  to 27
+[17:03:33] Weapon heads smithing increased  to 26
+[17:15:34] Blades smithing increased  to 28
+[17:30:54] Weapon heads smithing increased  to 27
+[17:40:02] Faith increased  to 18
+[20:21:42] Defensive fighting increased  to 6
+[20:22:58] Defensive fighting increased  to 7
+[20:23:52] Defensive fighting increased  to 8
+[20:25:12] Defensive fighting increased  to 9
+[20:26:32] Defensive fighting increased  to 10
+[20:28:02] Defensive fighting increased  to 11
+[20:28:39] Large metal shield increased  to 31
+[20:29:22] Defensive fighting increased  to 12
+[20:31:22] Defensive fighting increased  to 13
+[20:32:12] Shield bashing increased  to 3
+[20:33:12] Defensive fighting increased  to 14
+[20:34:54] Defensive fighting increased  to 15
+[20:37:15] Defensive fighting increased  to 16
+[20:40:13] Defensive fighting increased  to 17
+[20:42:32] Defensive fighting increased  to 18
+[20:45:24] Defensive fighting increased  to 19
+[20:48:42] Mind speed increased  to 23
+[20:48:52] Shields increased  to 32
+[20:51:02] Large metal shield increased  to 32
+[21:20:26] Weapon smithing increased  to 31
+[21:24:12] Miscellaneous items increased  to 44
+[21:25:52] Blades smithing increased  to 29
+[21:39:04] Weapon heads smithing increased  to 28

@@ -33,11 +33,20 @@ public class LogTracker implements Serializable {
 	}
 	
 	
-	
+	/**
+	 * Hashes the given WTime object
+	 * @param date the WTime object to be hashed
+	 * @return the integer hashCode reduced to fit inside the hashmap
+	 */
 	public int hash(WTime date) {
 		return date.hashCode() % M;
 	}
 	
+	/**
+	 * Puts LogRefList (Value) with WTime (Key) into the hashmap
+	 * @param date Date to be hashed - already stored in the LogRefList
+	 * @param lrl  List of LogRefs to be stored according to this date
+	 */
 	public void put(WTime date, LogRefList lrl) {
 		int index = hash(date);
 		// Currently, a put() action should never deal with a conflict of the same LRL, only the same index/date (which is what the arraylist is for)
@@ -50,6 +59,11 @@ public class LogTracker implements Serializable {
 		}
 	}
 	
+	/**
+	 * Gets the LogRefList assigned to the given date and returns it
+	 * @param date the WTime class to be hashed
+	 * @return the LogRefList stored with this WTime object
+	 */
 	public LogRefList get(WTime date) {
 		int index = hash(date);
 		// Search this index's ArrayList for the right LRL
@@ -61,8 +75,12 @@ public class LogTracker implements Serializable {
 		return null;	// If LRL is not found in the ArrayList
 	}
 	
-	// Sets up the Hashmap containing the lists of LogRef's
-	// This allows a date to be used as a key to return the list of log indexes and file locations for relevant logs
+	/**
+	 * Sets up the hashmap containing the lists of LogRef's
+	 * This allows a WTime date to be used as a key to return the list of log indexes and file locations for relevant logs
+	 * @param logFiles 
+	 * @throws Exception
+	 */
 	public void processDates(File[] logFiles) throws Exception {
 		// Scan through each log file, recording the pointer location
 		System.out.println("Indexing log files...");
@@ -122,7 +140,10 @@ public class LogTracker implements Serializable {
 		}
 	}
 	
-	
+	/**
+	 * Returns a list of all dates recorded from the logs processed
+	 * @return
+	 */
 	public String listDates() {
 		String ret = "";
 		for (WTime t : allDates) {
@@ -151,13 +172,17 @@ public class LogTracker implements Serializable {
 		allDates = newList;
 	}
 	
-	@Override
-	public String toString() {
-		return list.toString();
-	}
-	
+	/**
+	 * Returns String with hashmap book-keeping
+	 * @return the String object
+	 */
 	public String getStats() {
 		return "LogRefLists: " + numLogRefLists + "\n" +
 			   "LogRefs: " + numLogRefs;
+	}
+	
+	@Override
+	public String toString() {
+		return list.toString();
 	}
 }

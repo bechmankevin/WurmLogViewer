@@ -2,7 +2,7 @@ package wurmlogs;
 
 /**
  * @author Kevin Bechman
- *
+ * Class used to define references for the starting location of a given date's logs in a particular file
  */
 public class LogRef {
 	public final int fileIndex;  // Index of file in main file list
