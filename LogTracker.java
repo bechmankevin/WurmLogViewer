@@ -5,6 +5,7 @@ import java.io.RandomAccessFile;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 
 /**
  * @author Kevin Bechman
@@ -12,67 +13,32 @@ import java.util.Arrays;
  */
 public class LogTracker implements Serializable {
 	private static final long serialVersionUID = 4575686813167177630L;
-	private ArrayList<ArrayList<LogRefList>> list;  // Hashmap with lists of LogRefLists as the value, WTime as key
-	private final int M;
+	private HashMap<WTime, LogRefList> list;	// Hashmap with lists of LogRefLists as the value, WTime as key
 	private int numLogRefLists;
 	private int numLogRefs;
 	private ArrayList<WTime> allDates;	// All dates detected while indexing
 	
 	public LogTracker() {
-		this(1009);
-	}
-	public LogTracker(int num) {
-		M = num;
-		list = new ArrayList<ArrayList<LogRefList>>(M);
-		for (int i=0; i<M; i++) {
-			list.add(new ArrayList<LogRefList>());
-		}
-		//System.out.println("Hashmap of size " + M + " created.");
+		list = new HashMap<>();
 		allDates = new ArrayList<WTime>();
 		numLogRefLists = numLogRefs = 0;
 	}
 	
-	
 	/**
-	 * Hashes the given WTime object
-	 * @param date the WTime object to be hashed
-	 * @return the integer hashCode reduced to fit inside the hashmap
-	 */
-	public int hash(WTime date) {
-		return date.hashCode() % M;
-	}
-	
-	/**
-	 * Puts LogRefList (Value) with WTime (Key) into the hashmap
-	 * @param date Date to be hashed - already stored in the LogRefList
-	 * @param lrl  List of LogRefs to be stored according to this date
-	 */
-	public void put(WTime date, LogRefList lrl) {
-		int index = hash(date);
-		// Currently, a put() action should never deal with a conflict of the same LRL, only the same index/date (which is what the arraylist is for)
-		if (list.get(index).contains(lrl)) {
-			System.out.println("ERROR: Hashtable already contains something, this shouldn't happen.");
-			System.exit(1);
-		}
-		else {
-			list.get(index).add(lrl);
-		}
-	}
-	
-	/**
-	 * Gets the LogRefList assigned to the given date and returns it
+	 * Gets the LogRefList assigned to the given date and returns a copy (with no references attached)
 	 * @param date the WTime class to be hashed
-	 * @return the LogRefList stored with this WTime object
+	 * @return a copy of the LogRefList stored with this WTime object
 	 */
 	public LogRefList get(WTime date) {
-		int index = hash(date);
-		// Search this index's ArrayList for the right LRL
-		for(LogRefList lrl : list.get(index)) {
-			if (lrl.date.equals(date)) {
-				return lrl;
-			}
+		WTime dateCopy = new WTime(date.year, date.month, date.day);
+		LogRefList lrl = list.get(date);
+		if (lrl == null)
+			return null;
+		LogRefList lrlCopy = new LogRefList(dateCopy);
+		for (int i=0; i<lrl.size(); i++) {
+			lrlCopy.add(lrl.get(i));
 		}
-		return null;	// If LRL is not found in the ArrayList
+		return lrlCopy;
 	}
 	
 	/**
@@ -82,12 +48,15 @@ public class LogTracker implements Serializable {
 	 * @throws Exception
 	 */
 	public void processDates(File[] logFiles) throws Exception {
-		// Scan through each log file, recording the pointer location
 		System.out.println("Indexing log files...");
 		double startTime = System.nanoTime();
 		
+		// Loop through each file, opening a file reader
 		for (int i=0; i<logFiles.length; i++) {
-			//System.out.println(logFiles[i].getName());
+			//*** TEST TO SEE HOW LONG IT TAKES WHEN OMITTING EVENT/COMBAT/SKILLS ***//
+			/*String fName = logFiles[i].getName();
+			if (fName.substring(0, 4).equals("_Ski") || fName.substring(0, 4).equals("_Eve") ||
+					fName.substring(0, 4).equals("_Com")) {}*/
 			RandomAccessFile fileIn = new RandomAccessFile(logFiles[i], "r");
 			long pointerPos = 0;	// Beginning of file (file should always start with "Logging")
 			String line = fileIn.readLine();
@@ -96,29 +65,28 @@ public class LogTracker implements Serializable {
 			// If so, record the login date, find its spot in the hashmap, and add the LRL if it does not already exist.
 			// If the LRL does exist, add it (with the new LogRef)
 			while(line != null) {
-				//System.out.println(line);  //d
-				//System.out.println("pos: " + pointerPos);  //d
 				if (line.length() >= 26 && line.substring(0, 7).equals("Logging")) {
-					// Logging date message exists, so check to see if it is in hashmap
+					// Create object representing this Logging date
 					WTime loginDate = new WTime(Integer.parseInt(line.substring(16, 20)), 
 											    Integer.parseInt(line.substring(21, 23)), 
 												Integer.parseInt(line.substring(24, 26)));
-					recordDate(loginDate);
-					int hashIndex = hash(loginDate);
+					recordDate(loginDate);  // Record the date in convenience list of dates
 					LogRefList lrl = new LogRefList(loginDate);
 					LogRef ref = new LogRef(i, pointerPos);
-					int listIndex = list.get(hashIndex).indexOf(lrl);  // Index of LRL representing this given Logging date
-					if (listIndex != -1) {	// If the LRL exists in the ArrayList
-						lrl = list.get(hashIndex).get(listIndex);	// Assign to 'lrl' the LRL in the hashmap represented by this date
+					LogRefList newLRL = list.get(loginDate);  // Index of LRL representing this given Logging date
+					if (newLRL != null) {	// If the LRL exists in the HashMap
+						lrl = newLRL;	// Assign to 'lrl' the LRL in the hashmap represented by this date
 						// If the LRL does not yet contain a LogRef of this specific file index, add the LogRef
 						if (!lrl.contains(ref)) {
+							//System.out.println("lrl "+lrl.date+" "+lrl.size());
 							lrl.add(ref);
 							numLogRefs++;
 						}
 					}
-					else {	// If Date is not in the HashMap, begin the new LRL with the log reference and add the LRL to the hashmap
+					// If Date is not in the HashMap, begin the new LRL with the log reference and add the LRL to the hashmap
+					else {	
 						lrl.add(ref);
-						list.get(hashIndex).add(lrl);
+						list.put(loginDate, lrl);
 						numLogRefs++;
 						numLogRefLists++;
 					}
@@ -133,9 +101,10 @@ public class LogTracker implements Serializable {
 	
 	/**
 	* Adds new date to list of all dates if it is not already there.
+	* If the date is already in the hashmap, it has already been added to the list
 	*/
 	public void recordDate(WTime date) {
-		if (!allDates.contains(date)) {
+		if (list.get(date) == null) {
 			allDates.add(date);
 		}
 	}
@@ -168,7 +137,7 @@ public class LogTracker implements Serializable {
 		for (int i=0; i<arr.length; i++) {
 			newList.add(arr[i]);
 		}
-		// Reassign
+		// Reassign ordered list to old object
 		allDates = newList;
 	}
 	

@@ -5,7 +5,7 @@ package wurmlogs;
  * Represents a given date in the log files
  */
 public class WTime implements Comparable<WTime> {
-	private int year, month, day;
+	public final int year, month, day;
 	public WTime (int ye, int mo, int da) {
 		year = ye;
 		month = mo;
@@ -55,8 +55,4 @@ public class WTime implements Comparable<WTime> {
 			return -1;
 		else return 0;
 	}
-	
-	public int getDay() { return day; }
-	public int getMonth() { return month; }
-	public int getYear() { return year; }
 }

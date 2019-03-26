@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * Contains a list of LogRef objects (stored in an ArrayList) that were found for the given date
  */
 public class LogRefList {
-	public ArrayList<LogRef> list;
+	private ArrayList<LogRef> list;
 	public final WTime date;
 	public LogRefList(WTime d) {
 		list = new ArrayList<>();
@@ -26,12 +26,13 @@ public class LogRefList {
 		return false;
 	}
 	
+	// ***** Methods to access/change the inner ArrayList ***** //
 	public void add(LogRef ref) {
 		list.add(ref);
 	}
 	
 	public LogRef get(int i) {
-		return list.get(i);
+		return new LogRef(list.get(i).fileIndex, list.get(i).loc);
 	}
 	
 	public boolean contains(LogRef ref) {
@@ -40,6 +41,7 @@ public class LogRefList {
 	
 	public int size() { return list.size(); }
 	
+	@Override
 	public String toString() {
 		return "For date: "+date+ " : " +list.toString();
 	}
